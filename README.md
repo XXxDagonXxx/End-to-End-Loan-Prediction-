@@ -23,3 +23,10 @@ End-to-end Machine Learning project that predicts loan default risk using classi
 ->Model Tracking (MLflow)
 ->REST API Deployment
 
+## How to Run
+git clone (my repository's link)
+cd loan-default-prediction
+pip install -r requirements.txt
+uvicorn src.app.main:app --reload
+
+open this in your browser : http://127.0.0.1:8000/docs

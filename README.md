@@ -12,3 +12,14 @@ End-to-end Machine Learning project that predicts loan default risk using classi
 ->Uvicorn
 ->MLflow
 ->Joblib
+
+## Features
+
+->EDA
+->Feature Engineering
+->Class Imbalance Handling (SMOTE)
+->Cross Validation
+->Hyperparameter Tuning
+->Model Tracking (MLflow)
+->REST API Deployment
+
